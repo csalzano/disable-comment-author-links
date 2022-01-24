@@ -1,12 +1,13 @@
-=== Disable comment author links ===
+=== Disable Comment Author Links ===
+
 Contributors: salzano
 Donate link: http://www.tacticaltechnique.com/donate/
 Tags: comment author, get_comment_author_link, author link
 Requires at least: 2.0.2
-Tested up to: 3.2.1
-Stable tag: 1.0
+Tested up to: 5.8.3
+Stable tag: 1.0.0
 
-Prevent comment author names from linking to external websites.
+Prevents comment author names from linking to external websites.
 
 == Description ==
 
@@ -29,10 +30,11 @@ Anywhere comment author names are displayed on your website.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
+
+* [Changed] Adopts semantic version numbers
+* [Changed] Changes tested up to version number to 5.8.3
+
+= 0.110826 =
+
 * First build
-
-== Upgrade Notice ==
-
-= 1.0 =
-There is only one version available at this time
