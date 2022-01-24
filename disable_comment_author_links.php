@@ -3,7 +3,7 @@ defined( 'ABSPATH' ) or exit;
 
 /**
  * Plugin Name: Disable Comment Author Links
- * Plugin URI: http://www.tacticaltechnique.com/wordpress/disable-comment-author-links/
+ * Plugin URI: https://github.com/csalzano/disable-comment-author-links
  * Description: Removes home page links from comment author user names
  * Author: Corey Salzano
  * Author URI: https://breakfastco.xyz
